@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elements>   
+<countryUAE>//a[contains(text(),'UAE')]</countryUAE> 
+<countryOMAR>//a[contains(text(),'OMAR')]</countryOMAR> 
+<loginOrRegister>//span[contains(text(),'Login/Register')]</loginOrRegister> 
+</Elements>
+ 

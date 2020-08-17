@@ -1,0 +1,382 @@
+02-08-2020 13:03:30 INFO [CucumberRunner]: Executing Before Suite
+02-08-2020 13:03:30 INFO [CucumberRunner]: Executing Before Test
+02-08-2020 13:03:30 INFO [BrowserFactory]: Creating Browser Factory Instance
+02-08-2020 13:03:30 INFO [BrowserFactory]: Creating Browser Instance Chrome
+02-08-2020 13:03:30 INFO [BrowserFactory]: Setting Execution Country UAE
+02-08-2020 13:03:30 INFO [BrowserFactory]: Setting Execution language EN
+02-08-2020 13:03:31 INFO [Hooks]: Before Scenario Execution
+02-08-2020 13:03:31 INFO [CucumberRunner]: identifying browser to launch
+02-08-2020 13:03:31 INFO [CucumberRunner]: loading property file
+02-08-2020 13:03:31 INFO [Config]: Creating config object
+02-08-2020 13:03:31 INFO [Config]: Setting Config Path
+02-08-2020 13:03:31 INFO [CucumberRunner]: OS = Windows
+02-08-2020 13:03:31 INFO [BrowserFactory]: Creating Browser Factory Instance
+02-08-2020 13:03:31 INFO [BrowserFactory]: Returning Browser Instance
+02-08-2020 13:03:31 INFO [BrowserFactory]: Creating Chrome Driver Instance
+02-08-2020 13:03:36 INFO [CucumberRunner]: maximizing browser window
+02-08-2020 13:03:36 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:03:40 INFO [Config]: getting implicit wait from property file in sec
+02-08-2020 13:03:40 INFO [CucumberRunner]: Setting up implicit wait in secs 10
+02-08-2020 13:03:40 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:03:40 INFO [CucumberRunner]: Clearing browser cookies
+02-08-2020 13:03:40 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:03:40 INFO [BrowserFactory]: Getting Execution Country
+02-08-2020 13:03:40 INFO [BrowserFactory]: Getting Execution language
+02-08-2020 13:03:40 INFO [CucumberRunner]: Setting up browser url for country UAE and language EN
+02-08-2020 13:03:40 INFO [CucumberRunner]: loading property file
+02-08-2020 13:03:40 INFO [Config]: Creating config object
+02-08-2020 13:03:40 INFO [Config]: Setting Config Path
+02-08-2020 13:03:40 INFO [Config]: getting base URL from property file
+02-08-2020 13:03:40 INFO [Config]: the site URL for given country UAE and language EN is https://en-ae-stage.6tst.com
+02-08-2020 13:03:40 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:17 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:17 INFO [Config]: Creating config object
+02-08-2020 13:05:17 INFO [Config]: Setting Config Path
+02-08-2020 13:05:17 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:17 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:17 INFO [Config]: Creating config object
+02-08-2020 13:05:17 INFO [Config]: Setting Config Path
+02-08-2020 13:05:17 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:17 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:18 INFO [Config]: Creating config object
+02-08-2020 13:05:18 INFO [Config]: Setting Config Path
+02-08-2020 13:05:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:05:18 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:18 INFO [WaitHelper]: Waiting for 40000 ms
+02-08-2020 13:05:58 INFO [WaitHelper]: fluentwaitForvisibilityOfElement[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //div[@class='logo']//img]
+02-08-2020 13:05:58 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:58 INFO [WaitHelper]: element found...
+02-08-2020 13:05:58 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:58 INFO [CommonMethods]: Clicked on Webelement : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //span[@class='login-label']]
+02-08-2020 13:05:58 INFO [JsonReader]: Getting user name for type validuser
+02-08-2020 13:05:58 INFO [JsonReader]: Getting user login for type validuser
+02-08-2020 13:05:58 INFO [JsonReader]: Reading JSON Array
+02-08-2020 13:05:58 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:58 INFO [Config]: Creating config object
+02-08-2020 13:05:58 INFO [Config]: Setting Config Path
+02-08-2020 13:05:58 INFO [Config]: getting Json file name from property file
+02-08-2020 13:05:58 INFO [ResourceHelper]: Getting File Path TestData.json
+02-08-2020 13:05:58 INFO [ResourceHelper]: getting project directory base path
+02-08-2020 13:05:58 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:58 INFO [Config]: Creating config object
+02-08-2020 13:05:58 INFO [Config]: Setting Config Path
+02-08-2020 13:05:58 INFO [Config]: getting Json file name from property file
+02-08-2020 13:05:58 INFO [ResourceHelper]: The requested file path for file name TestData.json is D:\ECOMM\ECOMM/src/main/resources/data/Json/TestData.json
+02-08-2020 13:05:58 INFO [CommonMethods]: WebElement : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //input[@id='username']] Value : qauae1@yopmail.com
+02-08-2020 13:05:58 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:58 INFO [JsonReader]: Getting user password for type validuser
+02-08-2020 13:05:58 INFO [JsonReader]: Getting user login for type validuser
+02-08-2020 13:05:58 INFO [JsonReader]: Reading JSON Array
+02-08-2020 13:05:58 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:58 INFO [Config]: Creating config object
+02-08-2020 13:05:58 INFO [Config]: Setting Config Path
+02-08-2020 13:05:58 INFO [Config]: getting Json file name from property file
+02-08-2020 13:05:58 INFO [ResourceHelper]: Getting File Path TestData.json
+02-08-2020 13:05:58 INFO [ResourceHelper]: getting project directory base path
+02-08-2020 13:05:58 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:58 INFO [Config]: Creating config object
+02-08-2020 13:05:58 INFO [Config]: Setting Config Path
+02-08-2020 13:05:58 INFO [Config]: getting Json file name from property file
+02-08-2020 13:05:58 INFO [ResourceHelper]: The requested file path for file name TestData.json is D:\ECOMM\ECOMM/src/main/resources/data/Json/TestData.json
+02-08-2020 13:05:58 INFO [CommonMethods]: WebElement : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //input[@name='password']] Value : 6Thstreet!
+02-08-2020 13:05:58 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:58 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:05:58 INFO [CommonMethods]: Clicked on Webelement : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> css selector: button#login_button]
+02-08-2020 13:05:58 INFO [Config]: Setting Config object if null
+02-08-2020 13:05:58 INFO [Config]: Creating config object
+02-08-2020 13:05:58 INFO [Config]: Setting Config Path
+02-08-2020 13:05:58 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:06:04 INFO [WaitHelper]: fluentwaitForvisibilityOfElement[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //span[@id='customer_name_top_menu']]
+02-08-2020 13:06:04 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:06:05 INFO [WaitHelper]: element found...QA
+02-08-2020 13:06:05 INFO [GenericHelper]: element is displayed..[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //span[@id='customer_name_top_menu']]
+02-08-2020 13:06:05 INFO [Config]: Setting Config object if null
+02-08-2020 13:06:05 INFO [Config]: Creating config object
+02-08-2020 13:06:05 INFO [Config]: Setting Config Path
+02-08-2020 13:06:05 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:06:05 INFO [WaitHelper]: fluentwaitForvisibilityOfElement[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //img[@id='mainBannerImage']]
+02-08-2020 13:06:05 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:06:05 INFO [WaitHelper]: element found...
+02-08-2020 13:06:05 INFO [GenericHelper]: element is displayed..[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //img[@id='mainBannerImage']]
+02-08-2020 13:06:05 INFO [CommonMethods]: WebElement : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //input[@id='search']] Value : LCW-8S7179Z4-LCW-TURQUOIS :key ?
+02-08-2020 13:06:05 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:06:11 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:06:27 INFO [CommonMethods]: Clicked on Webelement : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='product_image arw-hover-actions arw-hover-image']/a'
+02-08-2020 13:06:28 INFO [WaitHelper]: fluentwaitForvisibilityOfElement[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //div[@class='gallery-placeholder']]
+02-08-2020 13:06:28 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:06:28 INFO [WaitHelper]: element found...
+02-08-2020 13:06:28 INFO [CommonMethods]: Locator : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //select[@id='countrySize']] Value : EU
+02-08-2020 13:06:28 INFO [WaitHelper]: fluentwaitForvisibilityOfElement[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //div[@class='gallery-placeholder']]
+02-08-2020 13:06:28 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:06:28 INFO [WaitHelper]: element found...
+02-08-2020 13:06:28 INFO [CommonMethods]: Locator : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //select[@id='countrySize']/parent::div/../..//select[@class='super-attribute-select']] Value : 10Y
+02-08-2020 13:06:28 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:06:48 INFO [CommonMethods]: Clicked on Webelement : Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='product-addtocart-button']'
+02-08-2020 13:06:48 INFO [WaitHelper]: fluentwaitForvisibilityOfElement[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //tr[@class='totals shipping excl']]
+02-08-2020 13:06:48 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:06:48 INFO [WaitHelper]: element found...Shipping AED 10
+02-08-2020 13:06:49 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:07:05 INFO [CommonMethods]: Clicked on Webelement : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='action primary checkout']'
+02-08-2020 13:07:05 INFO [WaitHelper]: Waiting for spinner disappear
+02-08-2020 13:07:20 INFO [WaitHelper]: waitForInvisibilityOfElementProxy element for: DefaultElementLocator 'By.xpath: //div[@id='checkout-loader' or @class='loading-mask']'
+02-08-2020 13:07:20 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:08:01 INFO [WaitHelper]: spinner not displayed
+02-08-2020 13:08:01 INFO [CommonMethods]: checking whether element is present
+02-08-2020 13:08:11 INFO [CommonMethods]: Found element:::--Proxy element for: DefaultElementLocator 'By.xpath: //div[contains(@class,'shipping-address-item')]'
+02-08-2020 13:08:21 INFO [CommonMethods]: checking whether element is present
+02-08-2020 13:08:31 INFO [CommonMethods]: Found element:::--Proxy element for: DefaultElementLocator 'By.xpath: //div[contains(@class,'shipping-address-item')]'
+02-08-2020 13:08:41 INFO [JsonReader]: Getting address first name for country uae
+02-08-2020 13:08:41 INFO [JsonReader]: Getting address details for country uae
+02-08-2020 13:08:41 INFO [JsonReader]: Reading JSON Array
+02-08-2020 13:08:41 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:41 INFO [Config]: Creating config object
+02-08-2020 13:08:41 INFO [Config]: Setting Config Path
+02-08-2020 13:08:41 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:41 INFO [ResourceHelper]: Getting File Path TestData.json
+02-08-2020 13:08:41 INFO [ResourceHelper]: getting project directory base path
+02-08-2020 13:08:41 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:41 INFO [Config]: Creating config object
+02-08-2020 13:08:41 INFO [Config]: Setting Config Path
+02-08-2020 13:08:41 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:41 INFO [ResourceHelper]: The requested file path for file name TestData.json is D:\ECOMM\ECOMM/src/main/resources/data/Json/TestData.json
+02-08-2020 13:08:41 INFO [CommonMethods]: WebElement : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //input[@name='firstname' and @class='input-text']] Value : uaefirstname
+02-08-2020 13:08:41 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:08:42 INFO [CheckoutAddressPage]: First Name is entered
+02-08-2020 13:08:42 INFO [JsonReader]: Getting address last name for country uae
+02-08-2020 13:08:42 INFO [JsonReader]: Getting address details for country uae
+02-08-2020 13:08:42 INFO [JsonReader]: Reading JSON Array
+02-08-2020 13:08:42 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:42 INFO [Config]: Creating config object
+02-08-2020 13:08:42 INFO [Config]: Setting Config Path
+02-08-2020 13:08:42 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:42 INFO [ResourceHelper]: Getting File Path TestData.json
+02-08-2020 13:08:42 INFO [ResourceHelper]: getting project directory base path
+02-08-2020 13:08:42 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:42 INFO [Config]: Creating config object
+02-08-2020 13:08:42 INFO [Config]: Setting Config Path
+02-08-2020 13:08:42 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:42 INFO [ResourceHelper]: The requested file path for file name TestData.json is D:\ECOMM\ECOMM/src/main/resources/data/Json/TestData.json
+02-08-2020 13:08:42 INFO [CommonMethods]: WebElement : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //input[@name='lastname' and @class='input-text']] Value : uaelastname
+02-08-2020 13:08:42 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:08:42 INFO [CheckoutAddressPage]: Last Name is entered
+02-08-2020 13:08:42 INFO [JsonReader]: Getting address street for country uae
+02-08-2020 13:08:42 INFO [JsonReader]: Getting address details for country uae
+02-08-2020 13:08:42 INFO [JsonReader]: Reading JSON Array
+02-08-2020 13:08:42 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:42 INFO [Config]: Creating config object
+02-08-2020 13:08:42 INFO [Config]: Setting Config Path
+02-08-2020 13:08:42 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:42 INFO [ResourceHelper]: Getting File Path TestData.json
+02-08-2020 13:08:42 INFO [ResourceHelper]: getting project directory base path
+02-08-2020 13:08:42 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:42 INFO [Config]: Creating config object
+02-08-2020 13:08:42 INFO [Config]: Setting Config Path
+02-08-2020 13:08:42 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:42 INFO [ResourceHelper]: The requested file path for file name TestData.json is D:\ECOMM\ECOMM/src/main/resources/data/Json/TestData.json
+02-08-2020 13:08:42 INFO [CommonMethods]: WebElement : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //input[@name='street[0]']] Value : uaestreet
+02-08-2020 13:08:42 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:08:42 INFO [CheckoutAddressPage]: Address is entered
+02-08-2020 13:08:42 INFO [JsonReader]: Getting address street for country uae
+02-08-2020 13:08:42 INFO [JsonReader]: Getting address details for country uae
+02-08-2020 13:08:42 INFO [JsonReader]: Reading JSON Array
+02-08-2020 13:08:42 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:42 INFO [Config]: Creating config object
+02-08-2020 13:08:42 INFO [Config]: Setting Config Path
+02-08-2020 13:08:42 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:42 INFO [ResourceHelper]: Getting File Path TestData.json
+02-08-2020 13:08:42 INFO [ResourceHelper]: getting project directory base path
+02-08-2020 13:08:42 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:42 INFO [Config]: Creating config object
+02-08-2020 13:08:42 INFO [Config]: Setting Config Path
+02-08-2020 13:08:42 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:42 INFO [ResourceHelper]: The requested file path for file name TestData.json is D:\ECOMM\ECOMM/src/main/resources/data/Json/TestData.json
+02-08-2020 13:08:42 INFO [CheckoutAddressPage]: City is Value Abu Dhabi
+02-08-2020 13:08:42 INFO [JsonReader]: Getting address street for country uae
+02-08-2020 13:08:42 INFO [JsonReader]: Getting address details for country uae
+02-08-2020 13:08:42 INFO [JsonReader]: Reading JSON Array
+02-08-2020 13:08:42 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:42 INFO [Config]: Creating config object
+02-08-2020 13:08:42 INFO [Config]: Setting Config Path
+02-08-2020 13:08:42 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:42 INFO [ResourceHelper]: Getting File Path TestData.json
+02-08-2020 13:08:42 INFO [ResourceHelper]: getting project directory base path
+02-08-2020 13:08:42 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:42 INFO [Config]: Creating config object
+02-08-2020 13:08:42 INFO [Config]: Setting Config Path
+02-08-2020 13:08:42 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:42 INFO [ResourceHelper]: The requested file path for file name TestData.json is D:\ECOMM\ECOMM/src/main/resources/data/Json/TestData.json
+02-08-2020 13:08:43 INFO [CommonMethods]: Locator : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //select[@name='city']] Value : Abu Dhabi
+02-08-2020 13:08:43 INFO [CheckoutAddressPage]: City is selected
+02-08-2020 13:08:43 INFO [JsonReader]: Getting address area for country uae
+02-08-2020 13:08:43 INFO [JsonReader]: Getting address details for country uae
+02-08-2020 13:08:43 INFO [JsonReader]: Reading JSON Array
+02-08-2020 13:08:43 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:43 INFO [Config]: Creating config object
+02-08-2020 13:08:43 INFO [Config]: Setting Config Path
+02-08-2020 13:08:43 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:43 INFO [ResourceHelper]: Getting File Path TestData.json
+02-08-2020 13:08:43 INFO [ResourceHelper]: getting project directory base path
+02-08-2020 13:08:43 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:43 INFO [Config]: Creating config object
+02-08-2020 13:08:43 INFO [Config]: Setting Config Path
+02-08-2020 13:08:43 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:43 INFO [ResourceHelper]: The requested file path for file name TestData.json is D:\ECOMM\ECOMM/src/main/resources/data/Json/TestData.json
+02-08-2020 13:08:43 INFO [CommonMethods]: Locator : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //select[@name='postcode']] Value : Abu Dhabi Golf Club
+02-08-2020 13:08:43 INFO [CheckoutAddressPage]: Area is selected
+02-08-2020 13:08:43 INFO [JsonReader]: Getting address career code for country uae
+02-08-2020 13:08:43 INFO [JsonReader]: Getting address details for country uae
+02-08-2020 13:08:43 INFO [JsonReader]: Reading JSON Array
+02-08-2020 13:08:43 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:43 INFO [Config]: Creating config object
+02-08-2020 13:08:43 INFO [Config]: Setting Config Path
+02-08-2020 13:08:43 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:43 INFO [ResourceHelper]: Getting File Path TestData.json
+02-08-2020 13:08:43 INFO [ResourceHelper]: getting project directory base path
+02-08-2020 13:08:43 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:43 INFO [Config]: Creating config object
+02-08-2020 13:08:43 INFO [Config]: Setting Config Path
+02-08-2020 13:08:43 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:43 INFO [ResourceHelper]: The requested file path for file name TestData.json is D:\ECOMM\ECOMM/src/main/resources/data/Json/TestData.json
+02-08-2020 13:08:43 INFO [CommonMethods]: Locator : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //select[@name='cn_carriercode']] Value : 52
+02-08-2020 13:08:43 INFO [CheckoutAddressPage]: Carrier Code is selected
+02-08-2020 13:08:43 INFO [JsonReader]: Getting address contact number for country uae
+02-08-2020 13:08:43 INFO [JsonReader]: Getting address details for country uae
+02-08-2020 13:08:43 INFO [JsonReader]: Reading JSON Array
+02-08-2020 13:08:43 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:43 INFO [Config]: Creating config object
+02-08-2020 13:08:43 INFO [Config]: Setting Config Path
+02-08-2020 13:08:43 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:43 INFO [ResourceHelper]: Getting File Path TestData.json
+02-08-2020 13:08:43 INFO [ResourceHelper]: getting project directory base path
+02-08-2020 13:08:43 INFO [Config]: Setting Config object if null
+02-08-2020 13:08:43 INFO [Config]: Creating config object
+02-08-2020 13:08:43 INFO [Config]: Setting Config Path
+02-08-2020 13:08:43 INFO [Config]: getting Json file name from property file
+02-08-2020 13:08:43 INFO [ResourceHelper]: The requested file path for file name TestData.json is D:\ECOMM\ECOMM/src/main/resources/data/Json/TestData.json
+02-08-2020 13:08:43 INFO [CommonMethods]: WebElement : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //input[@name='contact' and @type='text']] Value : 8888888
+02-08-2020 13:08:43 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:08:43 INFO [CheckoutAddressPage]: Phone Number is entered
+02-08-2020 13:08:43 INFO [CommonMethods]: checking whether element is present
+02-08-2020 13:08:53 INFO [CommonMethods]: Found element:::--Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='action primary action-save-address']'
+02-08-2020 13:09:04 INFO [WaitHelper]: Waiting for spinner disappear
+02-08-2020 13:09:19 INFO [WaitHelper]: waitForInvisibilityOfElementProxy element for: DefaultElementLocator 'By.xpath: //div[@id='checkout-loader' or @class='loading-mask']'
+02-08-2020 13:09:19 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:10:00 INFO [WaitHelper]: spinner not displayed
+02-08-2020 13:10:00 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:10:00 INFO [CommonMethods]: Clicked on Webelement : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //button[@class='button action continue primary']]
+02-08-2020 13:10:00 INFO [CheckoutAddressPage]: Delivered to this adrress button is clicked
+02-08-2020 13:10:00 INFO [Config]: Setting Config object if null
+02-08-2020 13:10:00 INFO [Config]: Creating config object
+02-08-2020 13:10:00 INFO [Config]: Setting Config Path
+02-08-2020 13:10:00 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:10:00 INFO [Config]: Setting Config object if null
+02-08-2020 13:10:00 INFO [Config]: Creating config object
+02-08-2020 13:10:00 INFO [Config]: Setting Config Path
+02-08-2020 13:10:00 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:10:00 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:10:00 INFO [WaitHelper]: Waiting for spinner disappear
+02-08-2020 13:10:05 INFO [WaitHelper]: waitForInvisibilityOfElement[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //div[@id='checkout-loader' or @class='loading-mask']]
+02-08-2020 13:10:05 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:10:07 INFO [CommonMethods]: Returning attribute value for class with value payment-method _active
+02-08-2020 13:10:07 INFO [WaitHelper]: Waiting for spinner disappear
+02-08-2020 13:10:12 INFO [WaitHelper]: waitForInvisibilityOfElement[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //div[@id='checkout-loader' or @class='loading-mask']]
+02-08-2020 13:10:12 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:10:12 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:10:12 INFO [CommonMethods]: Clicked on Webelement : [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //input[@id = 'msp_cashondelivery']]
+02-08-2020 13:10:12 INFO [WaitHelper]: Waiting for spinner disappear
+02-08-2020 13:10:18 INFO [WaitHelper]: waitForInvisibilityOfElement[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //div[@id='checkout-loader' or @class='loading-mask']]
+02-08-2020 13:10:18 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:10:18 INFO [CommonMethods]: Move to element and clicking [[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //button[@type = 'submit' and @class='action primary checkout button default']]
+02-08-2020 13:10:18 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:10:18 INFO [Config]: Setting Config object if null
+02-08-2020 13:10:18 INFO [Config]: Creating config object
+02-08-2020 13:10:18 INFO [Config]: Setting Config Path
+02-08-2020 13:10:18 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:10:26 INFO [WaitHelper]: fluentwaitForvisibilityOfElement[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //div[@class='checkout-success']/div[@class='title']]
+02-08-2020 13:10:26 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:10:27 INFO [WaitHelper]: element found...Thank you!
+02-08-2020 13:10:27 INFO [Config]: Setting Config object if null
+02-08-2020 13:10:27 INFO [Config]: Creating config object
+02-08-2020 13:10:27 INFO [Config]: Setting Config Path
+02-08-2020 13:10:27 INFO [Config]: getting explicit wait from property file in sec
+02-08-2020 13:10:27 INFO [WaitHelper]: fluentwaitForvisibilityOfElement[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //div[@class='checkout-success']/div[@class='title']]
+02-08-2020 13:10:27 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:10:27 INFO [WaitHelper]: element found...Thank you!
+02-08-2020 13:10:27 INFO [GenericHelper]: element is displayed..[[ChromeDriver: chrome on XP (7032d688f77940a29a65c1a36e6edaa5)] -> xpath: //div[@class='checkout-success']/div[@class='title']]
+02-08-2020 13:10:27 INFO [Hooks]: After Scenario Execution
+02-08-2020 13:10:27 INFO [CucumberRunner]: Attaching screenshot to cucumber html report
+02-08-2020 13:10:27 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:10:28 INFO [CucumberRunner]: Closing all browser instances
+02-08-2020 13:10:28 INFO [BrowserFactory]: Returning Driver Instance
+02-08-2020 13:10:29 INFO [CucumberRunner]: Generating reports after suite execution
+02-08-2020 13:10:29 INFO [ReportHelper]: Generating Cucumber Reports
+02-08-2020 13:10:30 INFO [ReportHelper]: configuring extent reports

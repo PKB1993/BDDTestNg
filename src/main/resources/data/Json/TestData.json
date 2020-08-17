@@ -1,0 +1,87 @@
+[
+	{
+		"users": {
+			"validuser": {
+				"username": "qauae1@yopmail.com",
+				"password": "6Thstreet!"
+			},
+			"invaliduser": {
+				"username": "invalid@automation.com",
+				"password": "invalid@1234"
+			},
+			"clubuser": {
+				"password": "club@1234"
+			}
+		},
+		"creditcard": {
+			"visa": {
+				"cardnumber": "4543474002249996",
+				"cvv": "956"
+			},
+			"amex": {
+				"cardnumber": "378282246310005",
+				"cvv": "1000"
+			},
+			"master": {
+				"cardnumber": "5436031030606378",
+				"cvv": "257"
+			}
+		},
+		"addresses": {
+			"uae": {
+				"firstname": "uaefirstname",
+				"lastname": "uaelastname",
+				"street": "uaestreet",
+				"city": "Abu Dhabi",
+				"area": "Abu Dhabi Golf Club",
+				"careercode": "52",
+				"contactnumber": "8888888"
+			},
+			"ksa": {
+				"firstname": "ksafirstname",
+				"lastname": "ksalastname",
+				"street": "ksastreet",
+				"city": "ksacity",
+				"area": "ksaarea",
+				"careercode": "ksacareercode",
+				"contactnumber": "ksacontactnumber"
+			},
+			"kw": {
+				"firstname": "kwfirstname",
+				"lastname": "kwlastname",
+				"street": "kwstreet",
+				"city": "kwcity",
+				"area": "kwarea",
+				"careercode": "kwcareercode",
+				"contactnumber": "kwcontactnumber"
+			},
+			"qa": {
+				"firstname": "qafirstname",
+				"lastname": "qalastname",
+				"street": "qastreet",
+				"city": "qacity",
+				"area": "qaarea",
+				"careercode": "qacareercode",
+				"contactnumber": "qacontactnumber"
+			},
+			"bh": {
+				"firstname": "bhfirstname",
+				"lastname": "bhlastname",
+				"street": "bhstreet",
+				"city": "bhcity",
+				"area": "bharea",
+				"careercode": "bhcareercode",
+				"contactnumber": "bhcontactnumber"
+			},
+			"om": {
+				"firstname": "omfirstname",
+				"lastname": "omlastname",
+				"street": "omstreet",
+				"city": "omcity",
+				"area": "omarea",
+				"careercode": "omcareercode",
+				"contactnumber": "omcontactnumber"
+			}
+		}
+	}
+]
